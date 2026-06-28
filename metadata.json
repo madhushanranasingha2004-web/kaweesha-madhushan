@@ -1,0 +1,6 @@
+{
+  "name": "FinanceManager",
+  "description": "Adaptive, beautiful, and localized Personal Finance Manager equipped with live dashboard summaries, charts, transaction listings, and reporting tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
